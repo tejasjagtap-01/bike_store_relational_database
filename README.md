@@ -47,7 +47,7 @@ The completed relational database warehouse was systematically queried to solve 
 
 
 
- ##💻 SQL Scripts & Implementation
+ ## 💻 SQL Scripts & Implementation
 
 **🛠️ Database Setup & Table Creation**
 
