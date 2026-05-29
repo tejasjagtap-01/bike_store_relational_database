@@ -195,10 +195,9 @@ SELECT * FROM stocks;
 ```
 
 
-**====================================================================**
-##📊DATA EXPLOARATION (EDA)
-**====================================================================**
-###1. Check for Duplicate Rows (Uniqueness Check)
+## 📊DATA EXPLOARATION (EDA)
+
+**1. Check for Duplicate Rows (Uniqueness Check)**
 ```sql
 SELECT 
 	customer_id, 
@@ -210,7 +209,7 @@ HAVING count(*)>1
 ```
 
 
-###2. Find the Range of Your Data (Min/Max Check)
+**2. Find the Range of Your Data (Min/Max Check)**
 ```sql
 SELECT
 	MIN(list_price) AS cheapest_bike,
@@ -220,7 +219,7 @@ FROM products;
 ```
 
 
-###3. Identify Missing Values (Null Scan)
+**3. Identify Missing Values (Null Scan)**
 ```sql
 SELECT 
 	COUNT(*) AS missing_phone_counts
