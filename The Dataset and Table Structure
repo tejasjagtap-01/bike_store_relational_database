@@ -1,0 +1,26 @@
+## 📥 Data Source
+
+The dataset utilized for this analysis contains over 7,000 operational transaction records. 
+To comply with GitHub file size limitations and maintain a clean repository, the raw data file is hosted externally.
+
+* **Dataset Source:** [Kaggle - Bike Sales Dataset in Europe]
+(https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
+* **Dataset Format:** Single Flat CSV File
+
+### 📊 Database Volume & Row Count Breakdown
+
+To confirm successful data ingestion and verify the scale of the relational database, a global count audit was executed across all 9 tables:
+
+| Schema Domain     | Table Name   | Description                               | Row Count      |
+|-------------------|--------------|-------------------------------------------|----------------|
+| **Production**    | `categories` | Core product classifications              | 7 rows         |
+| **Production**    | `brands`     | Bike manufacturer names                   | 9 rows         |
+| **Production**    | `products`   | Complete bicycle item catalog             | 321 rows       |
+| **Production**    | `stocks`     | Live inventory ledger per physical branch | 939 rows       |
+| **Sales**         | `stores`     | Physical retail store locations           | 3 rows         |
+| **Sales**         | `staffs`     | Employee records and team hierarchies     | 10 rows        |
+| **Sales**         | `customers`  | Client demographic details                | 1,445 rows     |
+| **Sales**         | `orders`     | Central transaction headers               | 1,615 rows     |
+| **Sales**         | `order_items`| Granular, line-item checkout invoices     | 4,722 rows     |
+|-------------------|--------------|-------------------------------------------|----------------|
+|  **Total System** |              | **Combined Database Scale**               | **7,152 rows** |
