@@ -394,10 +394,15 @@ This project successfully demonstrates how raw transactional retail logs can be 
 
 ## 👨‍💻 Author
 
-**Name** **Tejas Jagtap**
+## 👤 Project Author & About Me
 
-Let's connect! Whether you have questions about this project, want to collaborate on a data initiative, or just want to talk shop about SQL, feel free to reach out:
-**💼 LinkedIn:** https://www.linkedin.com/in/tejasjagtap01/
-**🐙 GitHub Portfolio:** https://github.com/tejasjagtap-01
+This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
+
+I am a **Data Engineer & Analytics Specialist** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
+
+* **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
+* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
+* | [Portfolio/Website] https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be 
+
 
 Thank you for checking out my project! 🚀
