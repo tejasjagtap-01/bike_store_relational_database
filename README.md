@@ -402,7 +402,7 @@ I am a **Data Engineer & Analytics Specialist** focused on bridging the gap betw
 
 * **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
 * **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
-* | [Portfolio/Website] https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be 
+* **Portfolio/Website** https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be 
 
 
 Thank you for checking out my project! 🚀
